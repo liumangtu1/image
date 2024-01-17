@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,CCTV1-综合
-http://110.7.128.105:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://122.140.40.186:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,CCTV2-财经
 http://110.7.128.105:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV3-综艺
-http://110.7.128.105:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://122.140.40.186:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,CCTV4-国际
 http://110.7.128.105:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV5-体育
