@@ -35,6 +35,3 @@ http://121.24.98.228:8090/hls/21/index.m3u8
 http://121.24.98.228:8090/hls/22/index.m3u8
 #EXTINF:-1,CCTV-15
 http://121.24.98.228:8090/hls/23/index.m3u8
-http://150.255.216.138:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,海南影视
-http://150.255.216.138:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
