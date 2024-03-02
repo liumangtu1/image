@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视高清
 http://119.54.4.205:9999/hls/30/index.m3u8
+http://61.172.255.69:3333/tsfile/live/0122_1.m3u8
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视高清
 http://119.54.4.205:9999/hls/18/index.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视高清
